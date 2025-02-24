@@ -3,6 +3,7 @@ let typed = new Typed("#element", {
     strings: ["Sahil Patel", "Developer"],
     typeSpeed: 100,
     showCursor: false,
+    loop: true
   });
 
 // Dark theme
